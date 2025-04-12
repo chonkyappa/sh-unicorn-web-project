@@ -29,7 +29,7 @@
         <mirror>
             <id>unicorns-unicorn-packages</id>
             <name>unicorns-unicorn-packages</name>
-            <url>https://unicorns-277707109529.d.codeartifact.us-west-2.amazonaws.com/maven/unicorn-packages/</url>
+            <url>https://github.com/chonkyappa/sh-unicorn-web-project</url>
             <mirrorOf>*</mirrorOf>
         </mirror>
     </mirrors>
