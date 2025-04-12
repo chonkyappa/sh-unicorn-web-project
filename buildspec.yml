@@ -18,5 +18,5 @@ phases:
       - mvn -s settings.xml package
 artifacts:
   files:
-    - target/sh-unicorn-build-artifacts-12345.war
+    - target/unicorn-web-build.zip
   discard-paths: no

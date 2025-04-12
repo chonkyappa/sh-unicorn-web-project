@@ -19,7 +19,7 @@
             <repositories>
                 <repository>
                     <id>unicorns-unicorn-packages</id>
-                    <url>https://github.com/chonkyappa/sh-unicorn-web-project</url>
+                    <url>https://unicorns-277707109529.d.codeartifact.us-west-2.amazonaws.com/maven/unicorn-packages/</url>
                 </repository>
             </repositories>
         </profile>
@@ -29,7 +29,7 @@
         <mirror>
             <id>unicorns-unicorn-packages</id>
             <name>unicorns-unicorn-packages</name>
-            <url>https://github.com/chonkyappa/sh-unicorn-web-project</url>
+            <url>https://unicorns-277707109529.d.codeartifact.us-west-2.amazonaws.com/maven/unicorn-packages/</url>
             <mirrorOf>*</mirrorOf>
         </mirror>
     </mirrors>
