@@ -19,7 +19,7 @@
             <repositories>
                 <repository>
                     <id>unicorns-unicorn-packages</id>
-                    <url>https://unicorns-277707109529.d.codeartifact.us-west-2.amazonaws.com/maven/unicorn-packages/</url>
+                    <url>https://github.com/chonkyappa/sh-unicorn-web-project</url>
                 </repository>
             </repositories>
         </profile>
